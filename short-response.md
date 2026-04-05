@@ -1,8 +1,8 @@
 # Short Response: Creating Tables and Aggregates
 
-Answer each question below. Write in complete sentences (3–5 per answer).
+Answer each question below. Write in complete sentences (3–5 per answer)
 
----
+## Fix
 
 ## Question 1
 
